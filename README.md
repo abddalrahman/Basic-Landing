@@ -45,4 +45,4 @@ This project was developed as part of a front-end training program at **Al-Mubar
 
 View the project live here:
 
-[Basic Landing](https://abddalrahman.github.io/Company-Hub-Platform/)
+[Basic Landing](https://abddalrahman.github.io/Basic-Landing/)
